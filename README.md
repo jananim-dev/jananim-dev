@@ -1,16 +1,47 @@
-## Hi there 👋
+# Hi, I'm Janani Muthukumar 👋
 
-<!--
-**jananim-dev/jananim-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 MCA Student @ KCET Cuddalore | CGPA: 9.1  
+💻 Full Stack Developer | Node.js · Flask · MySQL  
+📄 Research Author @ NCETEST '26  
+📍 Cuddalore, Tamil Nadu  
 
-Here are some ideas to get you started:
+## 🛠️ Tech Stack
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
+
+
+
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+
+
+
+
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+
+
+
+
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white)
+
+
+
+
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+
+
+
+## 🚀 Projects
+- 🌐 Cloud-Based Academic Multi-Event Registration System
+- 📊 Smart Sales Prediction System (Random Forest + Flask)
+
+## 📬 Connect With Me
+[
+
+![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)
+
+](https://linkedin.com/in/janani-devi-358161273)
+
+---
+⭐ Open to Junior Software Engineer / Full Stack Developer Roles!
