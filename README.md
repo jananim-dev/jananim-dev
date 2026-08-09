@@ -1,4 +1,4 @@
-# Hi, I'm Janani Muthukumar 👋
+# Hi, I'm Janani  👋
 
 🎓 MCA Student @ KCET Cuddalore | CGPA: 9.1
 💻 Full Stack Developer | Node.js · Flask · MySQL
