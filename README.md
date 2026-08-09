@@ -78,7 +78,7 @@
 
 ![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)
 
-](https://linkedin.com/in/janani-devi-358161273)
+](https://www.linkedin.com/in/janani-m-358161273)
 
 ---
 
