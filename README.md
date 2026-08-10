@@ -52,7 +52,6 @@
 ## 🚀 Projects
 
 - 🌐 Cloud-Based Academic Multi-Event Registration & Digital Invitation Management System *(Node.js · Express.js · MySQL · JavaScript)*
-- 📊 Smart Sales Prediction System *(Random Forest + Flask)*
 - 🚗 Driver Drowsiness Detection *(BCA Final Year)*
 
 ---
